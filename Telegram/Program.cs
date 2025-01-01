@@ -29,6 +29,7 @@ namespace Unigram
             // First, we'll get our activation event args, which are typically richer
             // than the incoming command-line args. We can use these in our app-defined
             // logic for generating the key for this instance.
+            // hinkx is here
             var activatedArgs = AppInstance.GetActivatedEventArgs();
             if (activatedArgs is CommandLineActivatedEventArgs commandLine && TryParseCommandLine(commandLine, out int id, out bool test))
             {
