@@ -20,7 +20,7 @@
 <br>
 
 ## Contributing
-For reporting **bugs** or making **feature requests**/**suggestions**, please go to https://bugs.telegram.org/.
+For repoarting **bugs** or making **feature requests**/**suggestions**, please go to https://bugs.telegram.org/.
 
 For feature requests, make sure to have read our [contributing guidelines](/CONTRIBUTING.md) and [build instructions](Documentation/Build-instructions.md).
 
